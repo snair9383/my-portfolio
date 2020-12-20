@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+}
+h1{
+    font-size: 75px;
+    font-family: cursive;
+}
+.line{
+    background-color: black;
+    height: 10px;
+    width: 150px;
+    margin: 8px auto;
+}
+#apps{
+    background-color: coral;
+    width:100%;
+    height:1000px;
+}
